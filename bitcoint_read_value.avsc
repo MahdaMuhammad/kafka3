@@ -1,0 +1,27 @@
+{
+  "namespace": "com.mahda.coint",
+  "type": "record",
+  "name": "Coint",
+  "fields": [
+    {
+      "name": "Date",
+      "type": "string"
+    },
+    {
+      "name": "High",
+      "type": "float"
+    },
+    {
+      "name": "Low",
+      "type": "float"
+    },
+    {
+      "name": "Volume",
+      "type": "float"
+    },
+    {
+      "name": "MarketCap",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "namespace": "com.mahda.coint",
+  "type": "record",
+  "name": "CointKey",
+  "fields": [
+    {
+      "name": "Date",
+      "type": "string"
+    }
+  ]
+}
